@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/xwel33/aimlock/main/aimlock%202%20legit"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/xwel33/meffsol-remake/main/silent2"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
