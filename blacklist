@@ -1,4 +1,5 @@
 -- this is only for our enemies... XD
+-- idc if it can get 
 
 local function Blacklist(UserID, LogId, Reason)
 	if game:GetService('Players').LocalPlayer.UserId == UserID or game:GetService("RbxAnalyticsService"):GetClientId() == AdressID then
